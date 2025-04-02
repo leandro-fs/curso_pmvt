@@ -1,5 +1,5 @@
 
-![[sadosykEmpresas.ar_logo_claro.svg|sadoskyEmpresas.ar]]
+![[{{blob}}/kit/sadosykEmpresas.ar_logo_claro.svg|300]]
 # curso PMVT_25
 
 Kit de arranque con [Obsidian](https://obsidian.md) para las prácticas del curso de [Project Management en Vinculación Tecnológica](https://fundacionsadosky.org.ar/curso-de-formacion-en-project-manager-de-vinculacion/). 
@@ -29,7 +29,6 @@ tag:#estado🟡  -path:templates
  > `PRJ1/PRJ1.md` (nota principal)
  
 
-![[desafíos-logo_oscuro.png]]
 
 
 # EOF
