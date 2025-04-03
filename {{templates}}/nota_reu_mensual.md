@@ -1,5 +1,5 @@
 
-## {{date}} mensual [[gente/]] [[gente/]] [[gente/]] [[gente/]]
+### {{date}} mensual [[gente/]] [[gente/]] 
 
 - invitados
 	- [[gente/]]

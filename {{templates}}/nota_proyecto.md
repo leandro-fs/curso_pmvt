@@ -46,7 +46,9 @@ task-todo:/.*/ path:{{title}}
 
 ## Reuniones
 
-### {{date}}  semanal_mensual [[gente/]] [[gente/]] [[gente/]] [[gente/]]
+### {{date}}  kick-off [[gente/]] [[gente/]] 
+
+### {{date}}  cierre [[gente/]] [[gente/]] 
 
 
 

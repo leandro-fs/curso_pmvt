@@ -1,5 +1,5 @@
 
-## {{date}} semanal [[gente/]] [[gente/]] [[gente/]] [[gente/]]
+### {{date}} semanal [[gente/]] [[gente/]] 
 
 - invitados
 	- [[gente/]]
